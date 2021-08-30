@@ -16,10 +16,6 @@
  * Base structure
  */
 
-body {
-  text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5);
-}
-
 .cover-container {
   max-width: 55rem;
   min-height: 100vh;
@@ -49,4 +45,16 @@ body {
 .nav-masthead .active {
   color: #fff;
   border-bottom-color: #fff;
+}
+
+// Custom Styles
+
+.card-body {
+  color: black;
+  text-align: left;
+}
+
+.auth-links a {
+  color: black;
+  text-decoration: none;
 }
