@@ -114,3 +114,11 @@ h6 {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+// custom styles
+.blog-nav {
+  background-color: #6495ed;
+  a {
+    color: #fff;
+  }
+}
