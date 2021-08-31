@@ -59,3 +59,5 @@ gem 'jquery-rails'
 gem 'takehiro_view_tool', git: 'https://github.com/takehironegishi/takehiro_view_tool'
 
 gem 'petergate', '~> 2.0', '>= 2.0.1'
+
+gem 'kaminari', '~> 1.0', '>= 1.0.1'
