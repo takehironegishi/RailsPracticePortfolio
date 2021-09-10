@@ -4,11 +4,13 @@
 // that code so it'll be compiled.
 
 //= require jquery3
+//= require jquery-ui
 //= require popper
 //= require bootstrap-sprockets
 
 import Rails from '@rails/ujs';
 import Turbolinks from 'turbolinks';
+import '../html.sortable';
 import * as ActiveStorage from '@rails/activestorage';
 import 'channels';
 import '@fortawesome/fontawesome-free/js/all';
